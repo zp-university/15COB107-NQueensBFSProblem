@@ -1,0 +1,11 @@
+=== Windows ===
+Open the ii/ folder and double click the run.bat file.
+
+=== Linux/Mac OS ===
+Open the ii/ folder and double click the run.sh file.
+
+=== Using the program ===
+When the program runs, you will be prompted in the terminal to input n.
+You must enter an integer value in the terminal corresponding to the value that you want n to be.
+The program will execute BFS with that value n and will then prompt for the next input.
+You can type quit or exit at that prompt to exit the program.

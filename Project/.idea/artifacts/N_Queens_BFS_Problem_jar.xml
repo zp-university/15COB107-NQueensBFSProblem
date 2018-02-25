@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="N-Queens BFS Problem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/N_Queens_BFS_Problem_jar</output-path>
+    <root id="archive" name="N-Queens BFS Problem.jar">
+      <element id="module-output" name="N-Queens BFS Problem" />
+    </root>
+  </artifact>
+</component>
